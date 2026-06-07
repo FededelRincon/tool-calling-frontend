@@ -80,11 +80,10 @@ export function ChatClient() {
       {/* Header */}
       <header className="flex flex-col gap-1 border-b px-5 py-4">
         <h1 className="text-lg font-semibold tracking-tight">
-          Asistente de Tienda
+          Asistente con Tool Calling
         </h1>
         <p className="text-sm text-muted-foreground">
-          Tool calling en vivo · Gemini + Firestore. Consultá precios, stock y
-          ventas en lenguaje natural.
+          La IA ejecuta acciones reales sobre una base de datos en vivo.
         </p>
       </header>
 
