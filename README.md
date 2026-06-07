@@ -3,8 +3,6 @@
 UI de chat (Next.js 16 · Tailwind v4 · shadcn/ui) para el asistente. Hace `fetch` al backend
 NestJS y muestra las respuestas con chips 🔧 de las herramientas que el modelo ejecutó.
 
-Ver el [README raíz](../README.md) para la visión completa y el diagrama de arquitectura.
-
 ## Setup
 
 ```bash
